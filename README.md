@@ -10,7 +10,7 @@ This Java program calculates the change to be given based on the price of an ite
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/danielriggi/MakeChangeProject.git
-    cd MakeChangeProjet
+    cd MakeChangeProject
     ```
 
 2. **Compile and Run:**
@@ -31,6 +31,3 @@ What is the price of the item?
 What is the amount tendered by the customer?
 20.00
 1 ten dollar bill, 1 five dollar bill, 1 one dollar bill, 4 pennies.
-
-
-ß
