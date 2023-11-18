@@ -19,7 +19,6 @@ public class CashRegister {
 		double remainder = tendered - price;
 		//due to rounding errors
 		remainder = Math.round(remainder * 100.0) / 100.0;
-		System.out.println("Remainder: " + remainder);
         int idx;
 		if (tendered < price) {
 			System.out.println("Not enough money provided!");
