@@ -10,7 +10,7 @@ This Java program calculates the change to be given based on the price of an ite
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/danielriggi/MakeChangeProject.git
-    cd MakeChangeProject
+    cd MakeChangeProject/src/makechange
     ```
 
 2. **Compile and Run:**
