@@ -10,13 +10,13 @@ This Java program calculates the change to be given based on the price of an ite
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/danielriggi/MakeChangeProject.git
-    cd MakeChangeProject/src/makechange
+    cd MakeChangeProject/src
     ```
 
 2. **Compile and Run:**
     ```bash
-    javac CashRegister.java
-    java CashRegister
+    javac makechange/CashRegister.java
+    java makechangeCashRegister
     ```
     Follow the on-screen instructions to input the price of the item and the amount tendered by the customer.
 
