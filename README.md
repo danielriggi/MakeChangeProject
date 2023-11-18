@@ -16,7 +16,7 @@ This Java program calculates the change to be given based on the price of an ite
 2. **Compile and Run:**
     ```bash
     javac makechange/CashRegister.java
-    java makechangeCashRegister
+    java makechange/CashRegister
     ```
     Follow the on-screen instructions to input the price of the item and the amount tendered by the customer.
 
