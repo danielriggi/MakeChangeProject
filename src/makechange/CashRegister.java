@@ -33,6 +33,8 @@ public class CashRegister {
 				idx++;
 			}
 		}
+		
+		//result string formatting
 		idx = 0;
 		String resString = "";
 		for (int i : resArr) {
